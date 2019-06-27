@@ -1,0 +1,22 @@
+--------------------------------------------------------------------------
+[[6863,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: helium-03
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Beginning julia set computation...
+--------------------------------------------------------------------------
+ORTE has lost communication with its daemon located on node:
+
+  hostname:  helium-05.cs.umanitoba.ca
+
+This is usually due to either a failure of the TCP network
+connection to the node, or possibly an internal failure of
+the daemon itself. We cannot recover from this failure, and
+therefore will terminate the job.
+
+--------------------------------------------------------------------------
